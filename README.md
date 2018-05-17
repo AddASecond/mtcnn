@@ -30,6 +30,13 @@
         <td>a training reproduction similar to CongWeiLin</td>
     </tr>
     <tr>
+        <td>https://github.com/daikankan/mtcnn</td>
+        <td>c++</td>
+        <td>caffe</td>
+        <td>yes</td>
+        <td>a training reproduction</td>
+    </tr>
+    <tr>
         <td>https://github.com/Seanlinx/mtcnn</td>
         <td>python</td>
         <td>mtcnn</td>
