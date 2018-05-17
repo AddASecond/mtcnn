@@ -183,4 +183,11 @@
         <td></td>
         <td>mtcnn caffe memory leak issue</td>
     </tr>
+    <tr>
+        <td>https://github.com/Team-Neighborhood/awesome-face-detection</td>
+        <td>C++</td>
+        <td>opencv, dlib, etc</td>
+        <td>no</td>
+        <td>methods benchmark</td>
+    </tr>
 </table>
