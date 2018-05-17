@@ -31,12 +31,19 @@
         <td>a training reproduction</td>
     </tr>
     <tr>
-        <td>https://github.com/Seanlinx/mtcnn</td>
-        <td>python</td>
-        <td>mtcnn</td>
-        <td>no</td>
-        <td>a good mxnet reproduction</td>
+        <td>https://github.com/zhanglaplace/3000fps-mtcnn</td>
+        <td>C++</td>
+        <td>opencv, caffe</td>
+        <td>yes</td>
+        <td>68keypoints but no model</td>
     </tr>
+    <tr>
+        <td>https://github.com/kuaikuaikim/DFace</td>
+        <td>python</td>
+        <td>pytorch</td>
+        <td>yes</td>
+        <td>DFace</td>
+    </tr>  
     <tr>
         <td>https://github.com/AITTSMD/MTCNN-Tensorflow</td>
         <td>python</td>
@@ -52,13 +59,6 @@
         <td>similar to AITTSMD</td>
     </tr>
     <tr>
-        <td>https://github.com/kuaikuaikim/DFace</td>
-        <td>python</td>
-        <td>pytorch</td>
-        <td>yes</td>
-        <td>DFace</td>
-    </tr>  
-    <tr>
         <td>https://github.com/davidsandberg/facenet</td>
         <td>python</td>
         <td>tensorflow</td>
@@ -66,11 +66,11 @@
         <td>the most popular</td>
     </tr>
     <tr>
-        <td>https://github.com/zhanglaplace/3000fps-mtcnn</td>
-        <td>C++</td>
-        <td>opencv, caffe</td>
-        <td>yes</td>
-        <td>68keypoints but no model</td>
+        <td>https://github.com/Seanlinx/mtcnn</td>
+        <td>python</td>
+        <td>mxnet</td>
+        <td>no</td>
+        <td>a good mxnet reproduction</td>
     </tr>
     <tr>
         <td>https://github.com/luoyetx/Joint-Face-Detection-and-Alignment</td>
@@ -100,25 +100,18 @@
         <td>original</td>
     </tr>
     <tr>
+        <td>https://github.com/happynear/MTCNN_face_detection_alignment</td>
+        <td>C++</td>
+        <td>caffe, matlab, Pdollar toolbox</td>
+        <td>yes</td>
+        <td>good implementation</td>
+    </tr>
+    <tr>
         <td>https://github.com/foreverYoungGitHub/MTCNN</td>
         <td>C++</td>
         <td>caffe, opencv</td>
         <td>could</td>
         <td>good illustration of training process</td>
-    </tr>
-    <tr>
-        <td>https://github.com/AlphaQi/MTCNN-light</td>
-        <td>C++</td>
-        <td>opencv, openblas</td>
-        <td>unknown</td>
-        <td>no framework, 68ms per frame(640,480)</td>
-    </tr>
-    <tr>
-        <td>https://github.com/pangyupo/mxnet_mtcnn_face_detection</td>
-        <td>python</td>
-        <td>mxnet, opencv</td>
-        <td>yes</td>
-        <td></td>
     </tr>
     <tr>
         <td>https://github.com/DuinoDu/mtcnn</td>
@@ -128,8 +121,43 @@
         <td></td>
     </tr>
     <tr>
+        <td>https://github.com/wowo200/MTCNN</td>
+        <td>C++</td>
+        <td>caffe, opencv</td>
+        <td>yes</td>
+        <td>only 1 cpp</td>
+    </tr>
+    <tr>
+        <td>https://github.com/blankWorld/MTCNN-Accelerate-Onet</td>
+        <td>C++</td>
+        <td>caffe, opencv</td>
+        <td>yes</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>https://github.com/OAID/FaceDetection</td>
+        <td>C++</td>
+        <td>caffe / mxnet / tensorflow</td>
+        <td>yes</td>
+        <td>good implementation</td>
+    </tr>
+    <tr>
+        <td>https://github.com/pangyupo/mxnet_mtcnn_face_detection</td>
+        <td>python</td>
+        <td>mxnet, opencv</td>
+        <td>yes</td>
+        <td></td>
+    </tr>
+    <tr>
         <td>https://github.com/ipazc/mtcnn</td>
         <td>python</td>
+        <td>tensorflow, opencv</td>
+        <td>yes</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>https://github.com/cyberfire/tensorflow-mtcnn</td>
+        <td>C++ / python</td>
         <td>tensorflow, opencv</td>
         <td>yes</td>
         <td></td>
@@ -149,39 +177,18 @@
         <td>extends ElegantGod/ncnn</td>
     </tr>
     <tr>
-        <td>https://github.com/OAID/FaceDetection</td>
+        <td>https://github.com/moli232777144/mtcnn_ncnn</td>
         <td>C++</td>
-        <td>caffe / mxnet / tensorflow</td>
+        <td>opencv, ncnn, protobuf</td>
         <td>yes</td>
-        <td>good implementation</td>
+        <td>Android, ARM</td>
     </tr>
     <tr>
-        <td>https://github.com/wowo200/MTCNN</td>
+        <td>https://github.com/AlphaQi/MTCNN-light</td>
         <td>C++</td>
-        <td>caffe, opencv</td>
-        <td>yes</td>
-        <td>only 1 cpp</td>
-    </tr>
-    <tr>
-        <td>https://github.com/blankWorld/MTCNN-Accelerate-Onet</td>
-        <td>C++</td>
-        <td>caffe, opencv</td>
-        <td>yes</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>https://github.com/cyberfire/tensorflow-mtcnn</td>
-        <td>C++ / python</td>
-        <td>tensorflow, opencv</td>
-        <td>yes</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>https://github.com/happynear/MTCNN_face_detection_alignment</td>
-        <td>C++</td>
-        <td>caffe, matlab, Pdollar toolbox</td>
-        <td>yes</td>
-        <td>good implementation</td>
+        <td>opencv, openblas</td>
+        <td>unknown</td>
+        <td>no framework, 68ms per frame(640,480)</td>
     </tr>
     <tr>
         <td>https://github.com/tpys/face-everthing</td>
@@ -189,13 +196,6 @@
         <td>opencv, Boost, SphereCaffe, CUDA</td>
         <td>yes</td>
         <td>aggregation of mutiple good repositories</td>
-    </tr>
-    <tr>
-        <td>https://github.com/moli232777144/mtcnn_ncnn</td>
-        <td>C++</td>
-        <td>opencv, ncnn, protobuf</td>
-        <td>yes</td>
-        <td>Android, ARM</td>
     </tr>
     <tr>
         <td>https://github.com/Team-Neighborhood/awesome-face-detection</td>
