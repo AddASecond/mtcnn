@@ -96,7 +96,6 @@
         <td>https://github.com/kpzhang93/MTCNN_face_detection_alignment</td>
         <td>matlab</td>
         <td>caffe</td>
-        <td>no</td>
         <td>yes</td>
         <td>original</td>
     </tr>
