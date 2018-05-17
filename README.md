@@ -1,12 +1,57 @@
 # mtcnn - Multi-task CNN
 
-<table>
+<table>  
     <tr>
         <td>library</td>
         <td>language</td>
         <td>dependencies</td>
         <td>comments</td>
     </tr>
+    <tr>
+        <td>https://github.com/kpzhang93/MTCNN_face_detection_alignment</td>
+        <td>matlab</td>
+        <td>caffe</td>
+        <td>original</td>
+    </tr>
+    <tr>
+        <td>https://github.com/CongWeilin/mtcnn-caffe</td>
+        <td>python</td>
+        <td>caffe</td>
+        <td>a training reproduction</td>
+    </tr>
+    <tr>
+        <td>https://github.com/dlunion/mtcnn</td>
+        <td>c++</td>
+        <td>caffe</td>
+        <td>a training reproduction similar to CongWeiLin</td>
+    </tr>
+    <tr>
+        <td>https://github.com/Seanlinx/mtcnn</td>
+        <td>cpythontd>
+        <td>mtcnn</td>
+        <td>a good mxnet reproduction</td>
+    </tr>
+    </tr>
+        <tr>
+        <td>https://github.com/AITTSMD/MTCNN-Tensorflow</td>
+        <td>python</td>
+        <td>tensorflow</td>
+        <td>followed the paper closely</td>
+    </tr>
+    </tr>
+        <tr>
+        <td>https://github.com/BobLiu20/mtcnn_tf</td>
+        <td>python</td>
+        <td>tensorflow</td>
+        <td>similar to AITTSMD</td>
+    </tr>
+    </tr>
+        <tr>
+        <td>https://github.com/kuaikuaikim/DFace</td>
+        <td>python</td>
+        <td>pytorch</td>
+        <td>DFace</td>
+    </tr>  
     <tr>
         <td>https://github.com/davidsandberg/facenet</td>
         <td>python</td>
@@ -30,12 +75,6 @@
         <td>python</td>
         <td>tensorflow, opencv</td>
         <td></td>
-    </tr>
-    <tr>
-        <td>https://github.com/kpzhang93/MTCNN_face_detection_alignment</td>
-        <td>matlab</td>
-        <td>caffe</td>
-        <td>original</td>
     </tr>
     <tr>
         <td>https://github.com/ElegantGod/ncnn</td>
@@ -115,19 +154,5 @@
         <td>C++</td>
         <td>opencv, mxnet</td>
         <td>mtcnn caffe memory leak issue</td>
-    </tr>
-    </tr>
-        <tr>
-        <td>https://github.com/AITTSMD/MTCNN-Tensorflow</td>
-        <td>python</td>
-        <td>tensorflow</td>
-        <td>followed the paper closely</td>
-    </tr>
-    </tr>
-        <tr>
-        <td>https://github.com/BobLiu20/mtcnn_tf</td>
-        <td>python</td>
-        <td>tensorflow</td>
-        <td>similar to AITTSMD's work</td>
     </tr>
 </table>
