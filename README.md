@@ -107,6 +107,27 @@
         <td>https://github.com/zhanglaplace/3000fps-mtcnn</td>
         <td>C++</td>
         <td>opencv, caffe</td>
-        <td></td>
+        <td>68keypoints but no model</td>
+    </tr>
+    </tr>
+        <tr>
+        <td>https://github.com/luoyetx/Joint-Face-Detection-and-Alignment</td>
+        <td>C++</td>
+        <td>opencv, mxnet</td>
+        <td>mtcnn caffe memory leak issue</td>
+    </tr>
+    </tr>
+        <tr>
+        <td>https://github.com/AITTSMD/MTCNN-Tensorflow</td>
+        <td>python</td>
+        <td>tensorflow</td>
+        <td>followed the paper closely</td>
+    </tr>
+    </tr>
+        <tr>
+        <td>https://github.com/BobLiu20/mtcnn_tf</td>
+        <td>python</td>
+        <td>tensorflow</td>
+        <td>similar to AITTSMD's work</td>
     </tr>
 </table>
