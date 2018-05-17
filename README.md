@@ -27,7 +27,7 @@
     </tr>
     <tr>
         <td>https://github.com/Seanlinx/mtcnn</td>
-        <td>cpythontd>
+        <td>python</td>
         <td>mtcnn</td>
         <td>a good mxnet reproduction</td>
     </tr>
