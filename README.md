@@ -17,6 +17,13 @@
         <td>a training reproduction</td>
     </tr>
     <tr>
+        <td>https://github.com/zuoqing1988/ZQCNN</td>
+        <td>objective-c</td>
+        <td>mxnet, mini-caffe</td>
+        <td>yes</td>
+        <td>106 landmarks</td>
+    </tr>
+    <tr>
         <td>https://github.com/dlunion/mtcnn</td>
         <td>c++</td>
         <td>caffe</td>
